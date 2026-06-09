@@ -1,104 +1,122 @@
-# Don't Sleep With The Fishes Guides
+# Don't Sleep With The Fishes Guide
 
-A community guide hub for **Don't Sleep With The Fishes**, covering survival tips, endings, item priorities, night event counters, walkthroughs, and gameplay video guides.
+The complete guide hub for **Don't Sleep With The Fishes**.
 
-👉 **Visit the full guide website:**
+## 🌐 Official Guide Website
+
 https://dontsleepwiththefishes.live/
 
-## About This Guide
+## 📚 GitHub Pages Version
 
-**Don't Sleep With The Fishes** is a survival horror resource-management game where players must escape a sinking ship, collect useful supplies, survive day by day at sea, and make choices that can lead to different endings.
+https://cherryyan1987.github.io/dont-sleep-with-the-fishes-guides/
 
-This repository supports a complete player guide site focused on:
+---
 
-* Beginner survival tips
-* All endings and hidden routes
-* Night event counters
-* Best items and item rankings
-* Complete walkthroughs
-* Gameplay and ending explanation videos
+![Don't Sleep With The Fishes Guide](0EiFqv.png)
 
-## Main Guides
+---
 
-### All Endings Guide
+## What You'll Find
 
-Learn how to unlock known endings, including rescue routes, true ending theories, bad endings, and hidden outcomes.
+This project provides detailed guides for:
 
-**Read the full guide:**
-[Don't Sleep With The Fishes Endings Guide](https://dontsleepwiththefishes.live/endings)
+* All Endings
+* Rescue Ending
+* True Ending
+* Giant Squid Strategies
+* Night Event Counters
+* Best Items
+* Beginner Survival Tips
+* Complete Walkthroughs
+* Gameplay Videos
 
-### Night Event Counters
+---
 
-Find the safest known counters for Giant Squid, Whirlpool, Eerie Melody, Eyes, Hope, Seagull, and other night events.
+## Start Here
 
-**Read the full guide:**
-[Don't Sleep With The Fishes Night Events Guide](https://dontsleepwiththefishes.live/night-events)
+### 🎯 All Endings Guide
 
-### Items Guide
+https://dontsleepwiththefishes.live/endings
 
-Compare the best items in the game, including Anchor, Flare Gun, Flashlight, Duct Tape, Bait, Fishing Rod, Bucket, and more.
+Learn how to unlock every known ending, including Rescue Ending, True Ending, Pay Debt Route, Ghost Ship Ending, and other hidden outcomes.
 
-**Read the full guide:**
-[Don't Sleep With The Fishes Items Guide](https://dontsleepwiththefishes.live/items)
+---
 
-### Beginner Guide
+### 🌊 Night Event Counters
 
-Start your first run with clear advice on ship scavenging, survival priorities, crew choices, food, energy, and common mistakes.
+https://dontsleepwiththefishes.live/night-events
 
-**Read the full guide:**
-[Don't Sleep With The Fishes Beginner Guide](https://dontsleepwiththefishes.live/beginner-guide)
+Survive dangerous events including:
+
+* Giant Squid
+* Whirlpool
+* Hope
+* Eyes
+* Eerie Melody
+* Seagull
+
+---
+
+### 🎒 Items Guide
+
+https://dontsleepwiththefishes.live/items
+
+Find the best items for survival:
+
+* Anchor
+* Flare Gun
+* Flashlight
+* Duct Tape
+* Bait
+* Fishing Rod
+
+---
+
+### 🧭 Beginner Guide
+
+https://dontsleepwiththefishes.live/beginner-guide
+
+Perfect for first-time players.
+
+---
+
+![Gameplay Screenshot](9FDsI+.png)
+
+---
+
+## Useful Links
+
+### Main Website
+
+https://dontsleepwiththefishes.live/
+
+### GitHub Pages
+
+https://cherryyan1987.github.io/dont-sleep-with-the-fishes-guides/
+
+### Videos
+
+https://dontsleepwiththefishes.live/videos
 
 ### Walkthrough
 
-Follow a spoiler-aware survival route from ship evacuation to late-game rescue planning.
+https://dontsleepwiththefishes.live/walkthrough
 
-**Read the full guide:**
-[Don't Sleep With The Fishes Walkthrough](https://dontsleepwiththefishes.live/walkthrough)
+---
 
-### Video Guides
+## Popular Searches
 
-Watch gameplay, ending explanations, streamer playthroughs, and survival strategy videos.
-
-**Watch videos:**
-[Don't Sleep With The Fishes Videos](https://dontsleepwiththefishes.live/videos)
-
-## Popular Topics
-
-* Don't Sleep With The Fishes guide
-* Don't Sleep With The Fishes endings
-* Don't Sleep With The Fishes walkthrough
-* Don't Sleep With The Fishes items
+* Don't Sleep With The Fishes Guide
+* Don't Sleep With The Fishes Endings
+* Don't Sleep With The Fishes Walkthrough
 * Don't Sleep With The Fishes Giant Squid
-* Don't Sleep With The Fishes rescue ending
-* Don't Sleep With The Fishes true ending
-* Don't Sleep With The Fishes night events
-* Don't Sleep With The Fishes best items
-* Don't Sleep With The Fishes gameplay videos
+* Don't Sleep With The Fishes Pay Debt
+* Don't Sleep With The Fishes Rescue Ending
+* Don't Sleep With The Fishes Best Items
+* Don't Sleep With The Fishes Night Events
 
-## Website
+---
 
-The full guide website is available here:
+Community guide project.
 
-**https://dontsleepwiththefishes.live/**
-
-This GitHub Pages project is a lightweight guide index and external reference page for players searching for quick access to survival strategies, endings, event counters, and item guides.
-
-## Repository Topics
-
-Recommended GitHub topics:
-
-```text
-dont-sleep-with-the-fishes
-game-guide
-survival-horror
-indie-game
-walkthrough
-endings-guide
-items-guide
-night-events
-github-pages
-```
-
-## Disclaimer
-
-This is a community-made guide project. It is not affiliated with or endorsed by the game developer. Game names, images, and related assets belong to their respective owners.
+Not affiliated with the game developer.
